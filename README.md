@@ -25,6 +25,9 @@ The code handles microphone setup and audio capture, sending audio to Wit.ai for
 ESP-NOW functionality allows wireless sending of commands between ESP32 boards, with callback processing to handle received packets.
 
 Overall this allows voice control of attached devices by speaking command phrases like "turn on kitchen" which are recognized by Wit.ai and used to control the appropriate relay/load.
+
+## License
+This project is licensed under the MIT License. See the LICENSE.md file for details.
 Here are some details on setting up this voice command project on your own computer:
 
 ## Hardware Setup 
